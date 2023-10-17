@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Koorowsh
-- 👀 I’m interested in computer programming and 
+- 👀 I’m interested in computer programming and python developer
 - 🌱 I’m currently learning how teaching English to student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Tel:@its_koorowsh
